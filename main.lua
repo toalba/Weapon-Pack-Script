@@ -82,7 +82,7 @@ function additemweapon (weaponname)
         if miniakcount < 4 then
         xPlayer.addInventoryItem('ver_miniak', 1)
         else
-     --   TriggerClientEvent() -- .... has to be made
+            notify('Inventar voll')
         end
     elseif weaponname == karabiner then
 
