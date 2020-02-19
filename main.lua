@@ -77,7 +77,7 @@ function additemweapon (weaponname)
     local karabiner = -2084633992
     local _source = source
     local xPlayer = ESX.GetPlayerFromId(_source)
-    local miniakcount = xPlayer.getInventoryItem('ephedrin').count
+    local miniakcount = xPlayer.getInventoryItem('ver_miniak').count
     if weaponname == miniak then
         if miniakcount < 4 then
         xPlayer.addInventoryItem('ver_miniak', 1)
