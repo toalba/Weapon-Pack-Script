@@ -1,8 +1,8 @@
-INSERT INTO `items` (name, label, `limit`) VALUES
-	('ver_miniak', 'Verpackte MiniAK', 3),
-	('ver_minismg', 'Verpackte MiniSMG', 4),
-	('ver_carbinerifle', 'Verpackte Karabiner', 3),
-	('ver_microsmg', 'Verpackte MicroSMG', 4),
-	('ver_smg', 'Verpackte SMG', 3),
-	('ver_gusenberg', 'Verpackte Gusenberg', 3)
+INSERT INTO `items` (name, label) VALUES
+	('ver_miniak', 'Verpackte MiniAK'),
+	('ver_minismg', 'Verpackte MiniSMG'),
+	('ver_carbinerifle', 'Verpackte Karabiner'),
+	('ver_microsmg', 'Verpackte MicroSMG'),
+	('ver_smg', 'Verpackte SMG'),
+	('ver_gusenberg', 'Verpackte Gusenberg')
 ;
