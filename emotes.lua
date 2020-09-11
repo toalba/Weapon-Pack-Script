@@ -1,4 +1,4 @@
 emotes = {}
 
-emotes['gun'] = {name = 'gun', anim = 'CODE_HUMAN_MEDIC_KNEEL'}
+emotes['gun'] = {name = 'gun', anim = 'PROP_HUMAN_PARKING_METER'}
 
